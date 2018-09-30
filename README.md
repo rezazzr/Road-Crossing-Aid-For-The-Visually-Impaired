@@ -1,1 +1,5 @@
-# Visually-Impaired-Road-Crossing-Aid
+# Road Crossing Aid for Visually Impaired
+
+There are over 37 million people across the globe who are visually impaired. Out of this population, over 15 million are from India [click here for the sources](https://en.wikipedia.org/wiki/Visual_impairment). Living in an underdevelpoed country with little infostructure for the disables could be very harsh and isolating. We wanted to make a difference and not let their disabilities hinder their day to day life. This motivation drove us to develop the project presented here.<br>
+<br>
+In this project, we designed, made and tested and application that uses AI to navigate and guid the visually impaired in crossing the street. In our first attempt in solving this problem we are considering the case of zebra line crossings. The full report and implementation of the AI part of the project can be found [here](https://github.com/rezazzr/Visually-Impaired-Road-Crossing-Aid/blob/master/Visually_Impaired_Road_Crossing_Aid.ipynb). 
