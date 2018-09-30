@@ -4,4 +4,4 @@ There are over 37 million people across the globe who are visually impaired. Out
 <br>
 In this project, we designed, made and tested and application that uses AI to navigate and guide the visually impaired in crossing the street. In our first attempt in solving this problem we are considering the case of zebra line crossings. The full report and implementation of the AI part of the project can be found [here](https://github.com/rezazzr/Visually-Impaired-Road-Crossing-Aid/blob/master/Visually_Impaired_Road_Crossing_Aid.ipynb). <br> <br>
 
-* <\font color="red">P.s. </font>A demo of the application running on android platform could be seen in this [video](https://www.youtube.com/watch?time_continue=2&v=fUke4D1N3ss).
+* **P.s.** A demo of the application running on android platform could be seen in this [video](https://www.youtube.com/watch?time_continue=2&v=fUke4D1N3ss).
